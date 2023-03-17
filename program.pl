@@ -38,5 +38,4 @@ customer(sally, doe, 50.55).
 vertical(line(point(X, Y), point(X, Y2))).
 
 as --> "a",{write("hello")}.
-
-
+bs --> [foo],{write("hello")}.
